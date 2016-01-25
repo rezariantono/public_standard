@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('../fonts/opensans-regular-webfont.eot');
+    src: url('../fonts/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/opensans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/opensans-regular-webfont.woff') format('woff'),
+         url('../fonts/opensans-regular-webfont.ttf') format('truetype'),
+         url('../fonts/opensans-regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'bebas_neue_regularregular';
+    src: url('../fonts/bebasneue_regular-webfont.eot');
+    src: url('../fonts/bebasneue_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/bebasneue_regular-webfont.woff2') format('woff2'),
+         url('../fonts/bebasneue_regular-webfont.woff') format('woff'),
+         url('../fonts/bebasneue_regular-webfont.ttf') format('truetype'),
+         url('../fonts/bebasneue_regular-webfont.svg#bebas_neue_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sinanova-regularregular';
+    src: url('../fonts/sinanova-regular-webfont.eot');
+    src: url('../fonts/sinanova-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/sinanova-regular-webfont.woff2') format('woff2'),
+         url('../fonts/sinanova-regular-webfont.woff') format('woff'),
+         url('../fonts/sinanova-regular-webfont.ttf') format('truetype'),
+         url('../fonts/sinanova-regular-webfont.svg#sinanova-regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
