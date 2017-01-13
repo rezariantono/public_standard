@@ -1,0 +1,103 @@
+@page {
+	size: auto;
+	margin: 0mm 0mm 0mm 0mm;
+}
+
+#printarea {
+	margin: 0px;
+	width: 100%;
+}
+
+.full-width {
+	width: 100%;
+}
+
+.half-width {
+	width: 50%;
+}
+
+.two-third-width {
+	width: 66%;
+}
+
+.one-third-width {
+	width: 33%;
+}
+
+.one-fifth-width {
+	width: 20%;
+}
+
+.one-tenth-width {
+	width: 10%;
+}
+
+.one-twentieth-width {
+	width: 5%;
+}
+
+.headers {
+	font-family: 'Arial' !important;
+	font-size: 12px !important;
+}
+
+.contents {
+	font-family: 'Arial' !important;
+	font-size: 11px !important;
+}
+
+.super-small {
+	font-size: 80%;
+}
+
+h1 h2 h3 h4 h5 h6 p {
+	white-space: pre-wrap;
+	wordwrap: break-word;
+	margin-top : 2px;
+	margin-bottom: : 2px;
+}
+
+hr.close-margin {
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+hr.solid{
+	border-top: 1px solid #8c8b8b;
+}
+
+
+hr.double {
+	border-top: 3px double #8c8b8b;
+}
+
+hr.dashed {
+	border-top: 1px dashed #8c8b8b;
+}
+
+.pull-left {
+	float: left !important;
+	text-align: left !important;
+}
+
+.pull-right {
+	float: right !important;
+	text-align: right !important;
+}
+
+.close-paragraph {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.close-paragraph-top-only {
+	margin-top: 0;
+	padding: 0;
+	border: 0;
+	margin-bottom: 5px;
+}
+
+.text-center {
+	text-align: center;
+}
