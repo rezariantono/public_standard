@@ -5,7 +5,7 @@
 
 #printarea {
 	margin: 0px;
-	width: 100%;
+	width: 90%;
 }
 
 .full-width {
@@ -100,4 +100,8 @@ hr.dashed {
 
 .text-center {
 	text-align: center;
+}
+
+td:not(.vertical-allign-center) {
+	vertical-align: top;
 }
